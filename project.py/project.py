@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # 1. Load the Data
-file_path = 'D:\python project\dataset.csv'  
+file_path = 'https://raw.githubusercontent.com/Shihab25-0/Online-Streaming-Subscriptions/refs/heads/main/dataset.csv'  
 data = pd.read_csv(file_path)
 
 # 2. Explore the Data
